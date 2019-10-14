@@ -1,0 +1,211 @@
+@media (min-width:800px) and (max-width:1200px){
+
+}
+
+@media (max-width:1024px) {
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) 
+{
+
+.top-bar p{font-size:12px;}
+.search-box .form-control{width: 57%;}
+nav.navbar.bootsnav ul.nav > li > a{padding: 15px 10px;}
+.slide-text h1{font-size:54px;}
+.dark-blue .btn-outline{width: 100%;padding: 13px 0;font-size: 13px;}
+footer .social-media ul li{margin-right: 10px;}
+.product-detail-slider .flex-control-thumbs li{margin-bottom:10px;}
+.product-description .size span{margin-bottom:10px;}
+.product-slider .owl-buttons .owl-prev{left: -20px;}
+.product-slider .owl-buttons .owl-next{right: -20px;}
+
+.categories-we-offer .box .box-border h2{text-align: right;margin: 19px 0 0;font-size: 14px;}
+[class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after{font-size: 50px;}
+
+footer .footer-nav{margin-right:40px;}
+
+}
+
+@media (max-width:768px){
+
+.top-bar{text-align:center;}	
+.top-bar-social-links{border:0;}
+.top-bar p{border:0;}
+.top-bar-social-links ul{margin:0;}
+.top-elements ul li{border:0;padding:11.5px 15px}
+.top-elements ul li:first-child{border:0;}
+.logo{display:block;margin-bottom:30px;}
+.search-box .form-control{width:100%;margin-bottom: 15px;}
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){width:100%;margin-bottom:15px;}
+.flex-direction-nav{display:none;}
+.slide-text p{font-size:22px;}
+.slide-text h1{font-size:46px;}
+.slide-text{padding: 10px 10%;top: 35px;}
+.top-rated .bg .overlay-box .text{border:0;}
+.design-your-room{padding: 30px 0 50px 0;}
+.design-room .text-main::after{display:none !important;}
+.design-room .text-main{padding:30px 40px;}
+.categories-we-offer .box{margin-bottom:10px;}
+[class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after{font-size:70px;}
+.dark-blue{text-align:center;}
+.subcribe-box h6{margin:25px 0 30px 0;}
+footer h4{margin-top:20px;}
+footer .border-right{border:0;}
+.product-detail-slider .flex-control-thumbs li{margin: 0 5px 10px 0;}
+.product-detail h2{font-size:24px;}
+.product-description .btn-outline-dark{padding: 10px 14px;}
+.product-item img{width:100%;}
+.inner-title-bg{display:none;}
+.boxes .row{margin-top:0;}
+#grid, #list {display: none;}
+#products .item{margin-bottom:100px;}
+#products .item img{width:100%;}
+.best-product-box img{width:100%;}
+.grid figure{width:100%;}
+.sort-catelog{float:none;margin-bottom:10px;}	
+.top-elements{float:none;}
+
+.sofa{display:none;}
+.categories-we-offer .box .box-border h2{text-align: right;margin: 19px 0 0;font-size: 12px;}
+[class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after{font-size: 50px;}
+
+.featured-product{margin-top:50px;}
+
+footer .footer-nav{margin-right:40px;}	
+
+.client-logos{padding-top:0;}
+
+}
+
+@media (min-width:360px) and (max-width:640px){
+	
+.top-bar{text-align:center;}	
+.top-bar-social-links{border:0;}
+.top-bar p{border:0;}
+.top-bar-social-links ul{margin:0;}
+.top-elements ul li{border:0;padding:11.5px 10px}
+.top-elements ul li a{font-size:12px;}
+.top-elements ul li:first-child{border:0;}
+.logo{display:block;margin-bottom:30px;}
+.search-box .form-control{width:100%;margin-bottom: 15px;}
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){width:100%;margin-bottom:15px;}
+.flex-direction-nav{display:none;}
+.slide-text p{font-size:12px;}
+.slide-text h1{font-size:16px;}
+.slide-text{padding: 10px 10%;top: 5px;}
+.top-rated .bg{height: 160px;}
+.top-rated .bg .overlay-box .text{border:0;display:block;}
+.top-rated .bg .overlay-box .text div{display:block;margin-top:15px;}
+.top-rated .bg .overlay-box .text p{margin:0;font-size:16px;}
+.top-rated .bg .overlay-box .text h1{font-size:32px;}
+.top-rated .bg .overlay-box .text a{font-size: 14px;margin-top: 8px;padding: 7px 10px;}
+.design-room .text-main::after{display:none !important;}
+.design-room .text-main{padding:30px 40px;position:static;}
+.categories-we-offer .box{margin-bottom:10px;}
+[class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after{font-size:70px;}
+.dark-blue{text-align:center;}
+.subcribe-box h6{margin:25px 0 30px 0;}
+footer h4{margin-top:20px;}
+footer .border-right{border:0;}
+.product-detail-slider .flex-control-thumbs li{margin: 0 5px 10px 0;}
+.product-detail h2{font-size:24px;}
+.product-description .btn-outline-dark{padding: 10px 14px;}
+.product-item img{width:100%;}
+.inner-title-bg{display:none;}
+.boxes .row{margin-top:0;}
+#grid, #list {display: none;}
+#products .item{margin-bottom:100px;}
+#products .item img{width:100%;}
+.best-product-box img{width:100%;}
+.grid figure{width:100%;}
+.sort-catelog{float:none;margin-bottom:10px;}
+
+.top-bar p{display:none;}
+.top-bar-social-links{display:none;}
+.top-elements > ul li:nth-child(2){display:none;}
+.best-products{padding-top:0;}
+.best-products .row{margin-top:0;}
+.design-room .image{margin-bottom:20px;}
+.sofa{display:none;}
+.categories-we-offer{padding:10px 0;}
+.categories-we-offer .row{margin-top:0;}
+.categories-we-offer .row:first-child{margin-bottom:10px;}
+
+.design-room .text-main{width:100%;}
+.design-room .text-main::before{display:none;}
+.featured-product{margin-top:0;}
+.design-your-room{padding-bottom:0;}
+.top-offers .box{margin-bottom:15px;}
+.best-products .margin-top{margin-top:50px;}
+.grey-box{text-align:center;}
+.grey-box img{margin:0 auto;}
+.grey-box a{margin:20px auto 0;}
+	
+}
+
+@media (min-width:320px) and (max-width:480px){
+
+.top-bar{text-align:center;}	
+.top-bar-social-links{border:0;}
+.top-bar p{border:0;}
+.top-bar-social-links ul{margin:0;}
+.top-elements ul li{border:0;padding:11.5px 5px}
+.top-elements ul li:first-child{border:0;}
+.top-elements ul li a{font-size:12px;}
+.logo{display:block;margin-bottom:30px;}
+.search-box .form-control{width:100%;margin-bottom: 15px;}
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){width:100%;margin-bottom:15px;}
+.flex-direction-nav{display:none;}
+.slide-text p{font-size:12px;}
+.slide-text h1{font-size:16px;}
+.slide-text{padding: 10px 10%;top: 5px;}
+.top-rated .bg{height: 160px;}
+.top-rated .bg .overlay-box .text{border:0;display:block;}
+.top-rated .bg .overlay-box .text div{display:block;margin-top:15px;}
+.top-rated .bg .overlay-box .text p{margin:0;font-size:16px;}
+.top-rated .bg .overlay-box .text h1{font-size:32px;}
+.top-rated .bg .overlay-box .text a{font-size: 14px;margin-top: 8px;padding: 7px 10px;}
+.design-room .text-main::after{display:none !important;}
+.design-room .text-main{padding:30px 40px;position:static;}
+.categories-we-offer .box{margin-bottom:10px;}
+[class^="flaticon-"]::before, [class*=" flaticon-"]::before, [class^="flaticon-"]::after, [class*=" flaticon-"]::after{font-size:70px;}
+.dark-blue{text-align:center;}
+.subcribe-box h6{margin:25px 0 30px 0;}
+footer h4{margin-top:20px;}
+footer .border-right{border:0;}
+.product-detail-slider .flex-control-thumbs li{margin: 0 5px 10px 0;}
+.product-detail h2{font-size:24px;}
+.product-description .btn-outline-dark{padding: 10px 14px;}
+.product-item img{width:100%;}
+.inner-title-bg{display:none;}
+.boxes .row{margin-top:0;}
+#grid, #list {display: none;}
+#products .item{margin-bottom:100px;}
+#products .item img{width:100%;}
+.best-product-box img{width:100%;}
+.grid figure{width:100%;}
+.sort-catelog{float:none;margin-bottom:10px;}
+
+.top-bar p{display:none;}
+.top-bar-social-links{display:none;}
+.top-elements > ul li:nth-child(2){display:none;}
+.best-products{padding-top:0;}
+.best-products .row{margin-top:0;}
+.design-room .image{margin-bottom:20px;}
+.sofa{display:none;}
+.categories-we-offer{padding:10px 0;}
+.categories-we-offer .row{margin-top:0;}
+.categories-we-offer .row:first-child{margin-bottom:10px;}
+
+.design-room .text-main{width:100%;}
+.design-room .text-main::before{display:none;}
+.featured-product{margin-top:0;}
+.design-your-room{padding-bottom:0;}
+.top-offers .box{margin-bottom:15px;}
+.best-products .margin-top{margin-top:50px;}
+.grey-box{text-align:center;}
+.grey-box img{margin:0 auto;}
+.grey-box a{margin:20px auto 0;}
+	
+}

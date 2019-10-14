@@ -1,0 +1,39 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 18/04/2017 16:58
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.html");
+  src: url("../fonts/Flaticond41d.html?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon-2.html") format("woff"),
+       url("../fonts/Flaticon-3.html") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.html#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+font-family: Flaticon;
+font-size: 80px;
+font-style: normal;
+}
+
+.flaticon-desk:before { content: "\f100"; }
+.flaticon-gamepad:before { content: "\f101"; }
+.flaticon-wedding-rings:before { content: "\f102"; }
+.flaticon-food:before { content: "\f103"; }
+.flaticon-cosmetics:before { content: "\f104"; }
+.flaticon-bedside-table:before { content: "\f105"; }
+.flaticon-photo-camera:before { content: "\f106"; }
+.flaticon-car:before { content: "\f107"; }
+.flaticon-sofa:before { content: "\f108"; }
